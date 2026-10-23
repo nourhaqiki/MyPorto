@@ -200,8 +200,7 @@
         <p class="form-error" id="login-error" role="alert" hidden></p>
         <button class="button" type="submit">Masuk ke dashboard</button>
       </form>
-      <p class="form-note">Demo lokal: <strong>admin</strong> / <strong>porto123</strong>. Ganti dengan autentikasi server sebelum dipublikasikan.</p>
-    </section>`;
+     </section>`;
   }
 
   function initNavigation() {
